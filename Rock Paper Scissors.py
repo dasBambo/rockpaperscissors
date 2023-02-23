@@ -14,7 +14,7 @@ win = 0
 lose = 0
 
 
-while 1:
+while (1):
 
     print("Rock Paper Scissors!")
     print("")
